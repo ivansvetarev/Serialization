@@ -2,9 +2,8 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
-#include "ObjectModel.cpp"
 #include "EventSystem.cpp"
-
+#include "Core.cpp"
 
 using namespace ObjectModel;
 using namespace EventSystem;
